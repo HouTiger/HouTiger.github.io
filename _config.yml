@@ -10,10 +10,10 @@ locale                   : "Beijing China"
 title                    : "Taige Hou/Home"
 title_separator          : "-"
 name                     : &name "Taige Hou"
-description              : &description "personal description"
+description              : &description "Senior at Peking University"
 url                      : https://houtiger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "HouTiger/academicpages.github.io"
+repository               : "HouTiger.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Taige Hou"
-  avatar           : "profile.png"
-  bio              : "Undergraduate at Peking University"
+  avatar           : "IMG_0212.jpeg"
+  bio              : "Undergraduate at School of EECS, Peking University. Interested as Data Mining, Database and Information Retrieval."
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : houtiger@pku.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "HouTiger"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/taige_hou/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
