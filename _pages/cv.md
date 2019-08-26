@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Intelligence Science and Techonology, Peking University, 2016
+* B.S. in Intelligence Science and Techonology, School of Electronics Engineering and Computer Science, Peking University, 2016
 * Visiting Scholar in Nanyang Technological Univerisity, under supervision of [Prof. Gao Cong](https://www.ntu.edu.sg/home/gaocong/)
 
 # Service and Leadership
