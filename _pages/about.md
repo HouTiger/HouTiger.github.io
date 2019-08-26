@@ -14,7 +14,7 @@ This summer, I've been at Nanyang Technological University as a visiting scholar
 My interests include data mining, database and information retrieval. And under the influence from [Prof. Xiaoming Li](http://net.pku.edu.cn/~lxm/), I've been following new progress that combines economics, sociology and computer science together.
 
 # Research
-* [Vision Trajectories: Scene, Method and Dataset](https://github.com/HouTiger/HWTrajecRelwork/blob/master/samples/Related.pdf): a survey on vision trajectories.
+* [Vision Trajectories: Scene, Method and Dataset](https://github.com/HouTiger/HWTrajecRelwork/raw/master/samples/Related.pdf): a survey on vision trajectories.
 
 # Finished Project
 * [ImEDec](https://github.com/HouTiger/GrayscaleImageDetectionUsingCNN): a grey scale Chinese character edge etection and saparation project using CNN.
