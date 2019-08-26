@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 I'm currently a senior student at Peking University, major in Intelligence Science and Technology.  
-This summer, I've been at Nanyang Technological University as a visiting scholar, coorperating with [https://sites.google.com/site/shengwangcs/](Dr. Sheng Wang), Ner York University, under the supervision of [https://www.ntu.edu.sg/home/gaocong/](Prof. Gao Cong).  
-My interests include data mining, database and information retrieval. And under the influence from [http://net.pku.edu.cn/~lxm/](Prof. Xiaoming Li), I've been following progress that combines economics, sociology and computer science.
+This summer, I've been at Nanyang Technological University as a visiting scholar, coorperating with [Dr. Sheng Wang](https://sites.google.com/site/shengwangcs/), New York University, under the supervision of [Prof. Gao Cong](https://www.ntu.edu.sg/home/gaocong/).  
+My interests include data mining, database and information retrieval. And under the influence from [Prof. Xiaoming Li](http://net.pku.edu.cn/~lxm/), I've been following progress that combines economics, sociology and computer science.
 
