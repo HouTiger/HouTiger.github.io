@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Intelligence Science and Techonology, Peking University, 2016
-* Visit Scholar in Nanyang Technological Univerisity, under supervision of [Prof. Gao Cong](https://www.ntu.edu.sg/home/gaocong/)
+* Visiting Scholar in Nanyang Technological Univerisity, under supervision of [Prof. Gao Cong](https://www.ntu.edu.sg/home/gaocong/)
 
-
+# Service and Leadership
+* Co-organizer of the HackPKU2018 Competation.
 
