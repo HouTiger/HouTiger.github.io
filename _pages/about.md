@@ -11,7 +11,7 @@ redirect_from:
 # About Me
 I'm currently a senior student at Peking University, major in Intelligence Science and Technology.  
 This summer, I've been at Nanyang Technological University as a visiting scholar, coorperating with [Dr. Sheng Wang](https://sites.google.com/site/shengwangcs/), New York University, under the supervision of [Prof. Gao Cong](https://www.ntu.edu.sg/home/gaocong/).  
-My interests include data mining, database and information retrieval. And under the influence from [Prof. Xiaoming Li](http://net.pku.edu.cn/~lxm/), I've been following new progress that combines economics, sociology and computer science together.
+My interests include data mining, database and information retrieval. And under the influence from [Prof. Xiaoming Li](http://net.pku.edu.cn/~lxm/) at Peking University, I've been following new progress that combines economics, sociology and computer science together.
 
 # Research
 * [Vision Trajectories: Scene, Method and Dataset](https://github.com/HouTiger/HWTrajecRelwork/raw/master/samples/Related.pdf): a survey on vision trajectories.
